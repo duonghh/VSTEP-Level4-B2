@@ -37,17 +37,17 @@ Các bạn xem thoải mái nhé!
 
 Mình thi tổng cộng 3 lần tại 3 địa điểm khác nhau:
 
-- **Lần 1 (Đầu tháng 10/2025) – Trường Đại học Văn Lang (Cầu Ông Lãnh, Quận 1, TPHCM)**  
+- **Lần 1 (Tháng 10/2025) – Trường Đại học Văn Lang (Cầu Ông Lãnh, Quận 1, TPHCM)**  
   Điểm: 5.0 (Bậc 3 – B1)  
   Lúc đó mình mới học xong khóa cấp tốc, đầu óc trống rỗng, thi "biết gì làm nấy".  
   Nếu chỉ cần B1 thì Văn Lang khá dễ (giống như "đóng tiền mua bằng", chỉ cần có làm là qua). Nhưng B2 trở lên cần chuẩn bị kỹ. Thủ tục nhanh gọn (chỉ online), kết quả + chứng chỉ chỉ 3 ngày, nhưng phí cao (2 triệu VND cho thí sinh tự do).
 
-- **Lần 2 (Cuối tháng 01/2026) – Trường Đại học Đồng Tháp (Cao Lãnh, Đồng Tháp)**  
+- **Lần 2 (Tháng 01/2026) – Trường Đại học Đồng Tháp (Cao Lãnh, Đồng Tháp)**  
   Điểm: 6.5 (Bậc 4 – B2) – Nói & Viết đều 7.0  
-  Lúc này mình chưa thuộc template, chưa luyện đề nhiều, vẫn "có gì nói/nấy". Viết sai chính tả tùm lum, Nói thì Part 1 bỏ lỡ 2 câu, Part 2-3 nói lan man.  
+  Lúc này mình chưa thuộc template, dù đã có tổng hợp và soạn chỉn chu. Nhưng vẫn chưa luyện đề nhiều, vẫn "có gì làm nấy". Viết thì sai chính tả tùm lum, Nói thì Part 1 bỏ lỡ 2 câu, Part 2-3 nói lan man.  
   May mắn được chấm dễ + "ơn trên phù hộ" nên đậu. Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được không quá rối). Kết quả sau 2 ngày, chứng chỉ khoảng 2 tuần.
 
-- **Lần 3 (Cuối tháng 01/2026) – Trường Đại học Nam Cần Thơ (An Bình (Ninh Kiều), Cần Thơ)**  
+- **Lần 3 (Tháng 01/2026) – Trường Đại học Nam Cần Thơ (An Bình (Ninh Kiều), Cần Thơ)**  
   Điểm: 6.0 (Bậc 4 – B2)  
   Lần này chuẩn bị hơn: xem template, cụm từ, và mang "bùa" Nói-Viết vào chép. Viết vẫn 7.0, nhưng Nói chỉ 5.0 (có lẽ giám khảo thấy máy móc, thiếu tự nhiên).  
   **Cảnh báo**: Không khuyến khích mang bùa nếu không có kỹ năng "chuyên nghiệp" vì rủi ro rất cao (3 giám thị + kiểm tra kỹ). Mình chỉ may mắn gặp giám thị dễ + máu liều. Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được không quá rối). Kết quả sau 2 ngày, chứng chỉ khoảng 2 tuần.
