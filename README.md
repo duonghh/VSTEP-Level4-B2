@@ -1,9 +1,9 @@
 # VSTEP Bậc 4 (B2) - Mô tả tài liệu & Kinh nghiệm cá nhân
 
 
-Mình là một sinh viên chương trình Chất lượng Cao khóa 2021 tại **Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TPHCM** (UIT). Để tốt nghiệp, trường yêu cầu phải đạt ít nhất **VSTEP Bậc 4 (B2)**.  
+Mình là sinh viên chương trình Chất lượng Cao khóa 2021 tại **Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TPHCM** (UIT). Để tốt nghiệp, trường yêu cầu phải đạt ít nhất **VSTEP Bậc 4 (B2)**.  
 
-Mình vốn rất yếu tiếng Anh, nên quá trình ôn thi đã khiến mình tốn rất nhiều thời gian, công sức và tiền bạc. Tâm trí gần như kiệt quệ vì áp lực. Sau khi thi đậu (và thi tới 3 lần ở 3 địa điểm khác nhau), mình quyết định public toàn bộ tài liệu mình đã dùng để giúp những bạn cũng đang "khổ sở" với chứng chỉ này, đặc biệt là các bạn yếu tiếng Anh nhưng bắt buộc phải có bằng để tốt nghiệp hoặc công việc.
+Mình vốn yếu tiếng Anh, nên quá trình ôn thi đã khiến mình tốn rất nhiều thời gian, công sức và tiền bạc. Tâm trí gần như kiệt quệ vì áp lực. Sau khi thi đậu (và thi tới 3 lần ở 3 địa điểm khác nhau), mình quyết định public toàn bộ tài liệu mình đã dùng để giúp những bạn cũng đang "khổ sở" với chứng chỉ này, đặc biệt là các bạn yếu tiếng Anh nhưng bắt buộc phải có bằng để tốt nghiệp hoặc công việc.
 
 **Mục tiêu của repo này**: Chia sẻ miễn phí những gì mình có, với hy vọng giúp các bạn tiết kiệm thời gian và chi phí, đồng thời đậu được Bậc 4 (hoặc cao hơn) một cách hiệu quả nhất.
 
@@ -37,7 +37,7 @@ Các bạn xem thoải mái nhé!
 
 Mình thi tổng cộng 3 lần tại 3 địa điểm khác nhau:
 
-- **Lần 1 (Tháng 10/2025) – Trường Đại học Văn Lang (Cầu Ông Lãnh, Quận 1, TPHCM)**  
+- **Lần 1 (Tháng 10/2025) – Trường Đại học Văn Lang (Cầu Ông Lãnh (Quận 1), TPHCM)**  
   Điểm: 5.0 (Bậc 3 – B1)  
   Lúc đó mình mới học xong khóa cấp tốc, đầu óc trống rỗng, thi "biết gì làm nấy".  
   Nếu chỉ cần B1 thì Văn Lang khá dễ (giống như "đóng tiền mua bằng", chỉ cần có làm là qua). Nhưng B2 trở lên cần chuẩn bị kỹ. Thủ tục nhanh gọn (chỉ online), kết quả + chứng chỉ chỉ 3 ngày, nhưng phí cao (2 triệu VND cho thí sinh tự do).
@@ -45,16 +45,16 @@ Mình thi tổng cộng 3 lần tại 3 địa điểm khác nhau:
 - **Lần 2 (Tháng 01/2026) – Trường Đại học Đồng Tháp (Cao Lãnh, Đồng Tháp)**  
   Điểm: 6.5 (Bậc 4 – B2) – Nói & Viết đều 7.0  
   Lúc này mình chưa thuộc template, dù đã có tổng hợp và soạn chỉn chu. Nhưng vẫn chưa luyện đề nhiều, vẫn "có gì làm nấy". Viết thì sai chính tả tùm lum, Nói thì Part 1 bỏ lỡ 2 câu, Part 2-3 nói lan man.  
-  May mắn được chấm dễ + "ơn trên phù hộ" nên đậu. Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được không quá rối). Kết quả sau 2 ngày, chứng chỉ khoảng 2 tuần.
+  May mắn được chấm dễ + "ơn trên phù hộ" nên đậu. Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được, không quá rối). Kết quả sau 2 ngày, chứng chỉ khoảng 2 tuần.
 
 - **Lần 3 (Tháng 01/2026) – Trường Đại học Nam Cần Thơ (An Bình (Ninh Kiều), Cần Thơ)**  
   Điểm: 6.0 (Bậc 4 – B2)  
   Lần này chuẩn bị hơn: xem template, cụm từ, và mang "bùa" Nói-Viết vào chép. Viết vẫn 7.0, nhưng Nói chỉ 5.0 (có lẽ giám khảo thấy máy móc, thiếu tự nhiên).  
-  **Cảnh báo**: Không khuyến khích mang bùa nếu không có kỹ năng "chuyên nghiệp" vì rủi ro rất cao (3 giám thị + kiểm tra kỹ). Mình chỉ may mắn gặp giám thị dễ + máu liều. Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được không quá rối). Kết quả sau 2 ngày, chứng chỉ khoảng 2 tuần.
+  **Cảnh báo**: Không khuyến khích mang bùa nếu không có kỹ năng "chuyên nghiệp" vì rủi ro rất cao (3 giám thị + kiểm tra kỹ). Mình chỉ may mắn gặp giám thị dễ + máu liều. Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được, không quá rối). Kết quả sau 2 ngày, chứng chỉ khoảng 2 tuần.
 
 
 **Lời khuyên lớn nhất**:  
-Nếu cần B2 trở lên, nên thi ở các trường **không quá nổi tiếng**, vùng xa hoặc xa trung tâm thành phố lớn. Thầy cô ở đó thường quen với trình độ trung bình, nên chấm Nói-Viết dễ chịu hơn. Chỉ cần chuẩn bị chỉn chu, tự tin một chút là dễ ăn điểm cao.
+Nếu cần B2 trở lên, nên thi ở các trường **không quá nổi tiếng**, ở vùng xa hoặc cách xa trung tâm thành phố lớn. Thầy cô ở đó thường quen với trình độ trung bình, nên chấm Nói-Viết dễ chịu hơn. Chỉ cần chuẩn bị chỉn chu, tự tin một chút là dễ ăn điểm cao.
 
 ## Mẹo & tips từ trải nghiệm + thầy cô dạy
 
