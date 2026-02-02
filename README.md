@@ -49,8 +49,9 @@ Mình thi tổng cộng 3 lần tại 3 địa điểm khác nhau:
 
 - **Lần 3 (Tháng 01/2026) – Trường Đại học Nam Cần Thơ (An Bình (Ninh Kiều), Cần Thơ)**  
   Điểm: 6.0 (Bậc 4 – B2)  
-  Lần này chuẩn bị hơn: xem template, cụm từ, và mang "bùa" Nói-Viết vào chép. Viết vẫn 7.0, nhưng Nói chỉ 5.0 (có lẽ giám khảo thấy máy móc, thiếu tự nhiên).  
-  **Cảnh báo**: Không khuyến khích mang bùa nếu không có kỹ năng "chuyên nghiệp" vì rủi ro rất cao (3 giám thị + kiểm tra kỹ). Mình chỉ may mắn gặp giám thị dễ + máu liều. Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được, không quá rối). Kết quả sau 2 ngày, chứng chỉ khoảng 2 tuần.
+  Lần này chuẩn bị hơn: xem template, cụm từ, và mang "bùa" Nói-Viết vào chép. Viết vẫn 7.0, nhưng Nói chỉ 5.0 (có lẽ giám khảo thấy máy móc, thiếu tự nhiên).
+  Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được, không quá rối). Kết quả sau 1 ngày, chứng chỉ trước 2 tuần.  
+  **Cảnh báo**: Không khuyến khích mang bùa nếu không có kỹ năng "chuyên nghiệp" vì rủi ro rất cao (3 giám thị + kiểm tra kỹ). Mình chỉ may mắn gặp giám thị dễ + máu liều. 
 
 
 **Lời khuyên lớn nhất**:  
