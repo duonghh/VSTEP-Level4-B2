@@ -3,7 +3,7 @@
 
 Mình là một sinh viên chương trình Chất lượng Cao khóa 2021 tại **Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TPHCM** (UIT). Để tốt nghiệp, trường yêu cầu phải đạt ít nhất **VSTEP Bậc 4 (B2)**.  
 
-Mình vốn rất yếu tiếng Anh, nên quá trình ôn thi đã khiến mình tốn rất nhiều thời gian, công sức và tiền bạc. Tâm trí gần như kiệt quệ vì áp lực. Sau khi thi đỗ (và thi tới 3 lần ở 3 địa điểm khác nhau), mình quyết định public toàn bộ tài liệu mình đã dùng để giúp những bạn cũng đang "đau đầu" với chứng chỉ này, đặc biệt là các bạn yếu tiếng Anh nhưng bắt buộc phải có bằng để tốt nghiệp hoặc công việc.
+Mình vốn rất yếu tiếng Anh, nên quá trình ôn thi đã khiến mình tốn rất nhiều thời gian, công sức và tiền bạc. Tâm trí gần như kiệt quệ vì áp lực. Sau khi thi đậu (và thi tới 3 lần ở 3 địa điểm khác nhau), mình quyết định public toàn bộ tài liệu mình đã dùng để giúp những bạn cũng đang "khổ sở" với chứng chỉ này, đặc biệt là các bạn yếu tiếng Anh nhưng bắt buộc phải có bằng để tốt nghiệp hoặc công việc.
 
 **Mục tiêu của repo này**: Chia sẻ miễn phí những gì mình có, với hy vọng giúp các bạn tiết kiệm thời gian và chi phí, đồng thời đậu được Bậc 4 (hoặc cao hơn) một cách hiệu quả nhất.
 
