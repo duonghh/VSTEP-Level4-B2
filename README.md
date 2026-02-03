@@ -1,7 +1,7 @@
 # VSTEP Bậc 4 (B2) – Mô tả tài liệu & Kinh nghiệm cá nhân
 
 
-Mình là sinh viên chương trình Chất lượng Cao khóa 2021 tại **Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TPHCM** (UIT). Để tốt nghiệp, trường yêu cầu phải đạt ít nhất **VSTEP Bậc 4 (B2)** 🥶.  
+Mình là sinh viên chương trình Chất lượng Cao khóa 2021 tại **Trường Đại học Công nghệ Thông tin – Đại học Quốc gia TPHCM** (UIT). Để tốt nghiệp, trường yêu cầu phải đạt ít nhất **VSTEP Bậc 4 (B2)** 🥶.  
 
 Mình vốn yếu tiếng Anh, nên quá trình ôn thi đã khiến mình tốn rất nhiều thời gian, công sức và tiền bạc. Tâm trí gần như kiệt quệ vì áp lực. Sau khi thi đậu (và thi tới 3 lần ở 3 địa điểm khác nhau), mình quyết định public toàn bộ tài liệu mình đã dùng để giúp những bạn cũng đang "khổ sở" với chứng chỉ này, đặc biệt là các bạn yếu tiếng Anh nhưng bắt buộc phải có bằng để tốt nghiệp hoặc công việc.
 
@@ -44,7 +44,7 @@ Mình thi tổng cộng 3 lần tại 3 địa điểm khác nhau:
 
 - **Lần 2️⃣ (26/01/2026) – Trường Đại học Đồng Tháp (Cao Lãnh, Đồng Tháp)**  
   Điểm: 6.5 (Bậc 4 – B2) – Nói & Viết đều 7.0  
-  Lúc này mình chưa thuộc template, dù đã có tổng hợp và soạn chỉn chu. Nhưng vẫn chưa luyện đề nhiều, vẫn "có gì làm nấy". Viết thì sai chính tả tùm lum, Nói thì Part 1 bỏ lỡ 2 câu, Part 2-3 nói lan man.  
+  Lúc này mình chưa thuộc template, dù đã có tổng hợp và soạn chỉn chu. Nhưng vẫn chưa luyện đề nhiều, vẫn "có gì làm nấy". Viết thì sai chính tả tùm lum, Nói thì Part 1 bỏ lỡ 2 câu, Part 2–3 nói lan man.  
   May mắn được chấm dễ + "ơn trên phù hộ" nên đậu. Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được, không quá rối). Kết quả sau 2 ngày, chứng chỉ khoảng 2 tuần.
 
 - **Lần 3️⃣ (28/01/2026) – Trường Đại học Nam Cần Thơ (An Bình (Ninh Kiều), Cần Thơ)**  
