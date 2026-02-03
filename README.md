@@ -55,7 +55,7 @@ Mình thi tổng cộng 3 lần tại 3 địa điểm khác nhau:
 
 
 **✨ Lời khuyên lớn nhất**:  
-Nếu cần B2 trở lên, nên thi ở các trường **không quá nổi tiếng**, ở vùng xa hoặc cách xa trung tâm thành phố lớn. Thầy cô ở đó thường quen với trình độ trung bình, nên chấm Nói-Viết dễ chịu hơn. Chỉ cần chuẩn bị chỉn chu, tự tin một chút là dễ ăn điểm cao.
+Nếu cần B2 trở lên, nên thi ở các trường **không quá nổi tiếng**, ở vùng xa hoặc cách xa trung tâm thành phố lớn. Thầy cô ở đó thường quen với trình độ trung bình, nên chấm Nói–Viết dễ chịu hơn. Chỉ cần chuẩn bị chỉn chu, tự tin một chút là dễ ăn điểm cao.
 
 ## ♻️ Mẹo & tips từ trải nghiệm + thầy cô dạy
 
@@ -78,5 +78,5 @@ Nếu thấy hữu ích, hãy **star** repo và chia sẻ cho những ai cần. 
 
 Cảm ơn đã ghé qua! 💛
 
-## 📩 Contact me 
+## 💌 Contact me 
 - Email: 1410hhd@gmail.com
