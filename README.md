@@ -1,7 +1,7 @@
-# VSTEP Bậc 4 (B2) - Mô tả tài liệu & Kinh nghiệm cá nhân 🎓
+# VSTEP Bậc 4 (B2) - Mô tả tài liệu & Kinh nghiệm cá nhân
 
 
-Mình là sinh viên chương trình Chất lượng Cao khóa 2021 tại **Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TPHCM** (UIT). Để tốt nghiệp, trường yêu cầu phải đạt ít nhất **VSTEP Bậc 4 (B2)**.  
+Mình là sinh viên chương trình Chất lượng Cao khóa 2021 tại **Trường Đại học Công nghệ Thông tin - Đại học Quốc gia TPHCM** (UIT). Để tốt nghiệp, trường yêu cầu phải đạt ít nhất **VSTEP Bậc 4 (B2)** 🤡.  
 
 Mình vốn yếu tiếng Anh, nên quá trình ôn thi đã khiến mình tốn rất nhiều thời gian, công sức và tiền bạc. Tâm trí gần như kiệt quệ vì áp lực. Sau khi thi đậu (và thi tới 3 lần ở 3 địa điểm khác nhau), mình quyết định public toàn bộ tài liệu mình đã dùng để giúp những bạn cũng đang "khổ sở" với chứng chỉ này, đặc biệt là các bạn yếu tiếng Anh nhưng bắt buộc phải có bằng để tốt nghiệp hoặc công việc.
 
@@ -16,7 +16,7 @@ Repo được chia thành 3 thư mục chính:
    - 30 đề Speaking (Part 1, 2, 3)  
    - Sách 30 bài luận mẫu Task 2 (Writing)  
    - Tài liệu từ trung tâm **Mini Hippo (Minh Long)**  
-   - Bộ tài liệu mua từ bạn bán trên TikTok  
+   - File tài liệu mua từ bạn bán trên TikTok  
 
 2. **Tài liệu tổng hợp bằng AI (bản trả phí) - dùng sát ngày thi**  
    - Các **template Speaking & Writing** được highlight kỹ, in ra học thuộc lòng  
@@ -74,7 +74,7 @@ Nếu cần B2 trở lên, nên thi ở các trường **không quá nổi tiế
 
 Hy vọng repo này sẽ giúp các bạn tiết kiệm công sức và sớm đạt được **VSTEP Bậc 4 (B2)** như mình (hoặc cao hơn nữa)!  
 
-Nếu thấy hữu ích, hãy **star** repo và chia sẻ cho những ai cần. Chúc các bạn ôn thi tốt và thi đậu!  🍀
+Nếu thấy hữu ích, hãy **star** repo và chia sẻ cho những ai cần. Chúc các bạn ôn thi tốt và thi đậu!  🎓🍀
 
 Cảm ơn đã ghé qua! 💛
 
