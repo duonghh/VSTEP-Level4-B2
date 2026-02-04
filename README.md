@@ -39,13 +39,13 @@ Mình thi tổng cộng 3 lần tại 3 địa điểm khác nhau:
 
 - **Lần 1️⃣ (05/10/2025) – Trường Đại học Văn Lang (Cầu Ông Lãnh (Quận 1), TPHCM)**  
   Điểm: 5.0 (Bậc 3 – B1)  
-  Lúc đó mình mới học xong khóa cấp tốc, đầu óc trống rỗng, thi "biết gì làm nấy".  
+  Lúc đó mình mới học xong các khóa học, đầu óc trống rỗng, thi "biết gì làm nấy".  
   Nếu chỉ cần B1 thì Văn Lang khá dễ (giống như "đóng tiền mua bằng", chỉ cần có làm là qua). Nhưng B2 trở lên cần chuẩn bị kỹ. Thủ tục nhanh gọn (chỉ online), kết quả + chứng chỉ chỉ 3 ngày, nhưng phí cao (2 triệu VND cho thí sinh tự do).
 
 - **Lần 2️⃣ (26/01/2026) – Trường Đại học Đồng Tháp (Cao Lãnh, Đồng Tháp)**  
   Điểm: 6.5 (Bậc 4 – B2) – Nói & Viết đều 7.0  
   Lúc này mình chưa thuộc template, dù đã có tổng hợp và soạn chỉn chu. Nhưng vẫn chưa luyện đề nhiều, vẫn "có gì làm nấy". Viết thì sai chính tả tùm lum, Nói thì Part 1 bỏ lỡ 2 câu, Part 2–3 nói lan man.  
-  May mắn được chấm dễ + "ơn trên phù hộ" nên đậu. Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được, không quá rối). Kết quả sau 2 ngày, chứng chỉ khoảng 2 tuần.
+  May mắn được chấm dễ + "ơn trên phù hộ" nên đậu. Phí thi: 1.5 triệu VND (thí sinh tự do). Thủ tục thì vừa online trên web VSTEP của nhà trường và nộp hồ sơ offline (làm theo hướng dẫn là được, không quá rối). Kết quả sau 2 ngày, chứng chỉ trước 2 tuần.
 
 - **Lần 3️⃣ (28/01/2026) – Trường Đại học Nam Cần Thơ (An Bình (Ninh Kiều), Cần Thơ)**  
   Điểm: 6.0 (Bậc 4 – B2)  
@@ -61,20 +61,20 @@ Nếu cần B2 trở lên, nên thi ở các trường **không quá nổi tiế
 
 - Nghe–Đọc cần thời gian ôn luyện rất nhiều. Điều quan trọng là phải ôn lại sau mỗi lần làm.
 - Nói–Viết có thể lên điểm nhanh trong thời gian ngắn nếu có sự đầu tư, vì đa phần đã có sẵn để học thuộc.
-- Nhét từ vựng trình độ cao (dù hơi "lạc đề") vào bài Nói/Viết để ghi điểm từ vựng & thể hiện sự cố gắng.  
+- Nhét từ vựng trình độ cao (dù hơi "lạc đề") vào bài Nói–Viết để ghi điểm từ vựng & thể hiện sự cố gắng.  
 - Luyện viết câu ghép dài, đơn giản theo topic phổ biến → càng luyện nhiều càng quen tay, thi tự nhiên sẽ "nảy" ý.  
 - Nói: Thuộc template + luyện phản xạ qua nhiều dạng đề → đỡ mất thời gian nghĩ.  
 - Gặp topic lạ → ưu tiên lái về **Money / Health / Knowledge** (có cụm benefits & drawbacks sẵn trong repo). Nếu thời gian gấp & rối, tập trung 3 nhóm này là đủ "xoay sở" hầu hết đề.
 
 ## ⚠️ Lưu ý quan trọng
 
-- Tất cả tài liệu trong repo là do mình và bạn bè sưu tầm, mua, tổng hợp – chỉ dùng cho mục đích học tập cá nhân, không vì mục đích thương mại.  
+- Tất cả tài liệu trong repo là do mình và bạn bè sưu tầm, mua, tổng hợp – chỉ dùng cho mục đích học tập cá nhân, không vì mục đích khác.  
 - Không khuyến khích gian lận trong thi cử. Hãy dùng "bùa" chỉ như công cụ hỗ trợ ôn tập, không nên mang vào phòng thi nếu không muốn rủi ro bị hủy kết quả.  
 - Chứng chỉ VSTEP có giá trị theo quy định của từng trường/cơ quan (thường 2 năm hoặc vĩnh viễn tùy nơi).
 
 Hy vọng repo này sẽ giúp các bạn tiết kiệm công sức và sớm đạt được **VSTEP Bậc 4 (B2)** như mình (hoặc cao hơn nữa)!  
 
-Nếu thấy hữu ích, hãy **star** repo và chia sẻ cho những ai cần. Chúc các bạn ôn thi tốt và thi đậu!  🎓🍀
+Nếu thấy hữu ích, hãy **star** repo và **chia sẻ cho những ai cần**. Chúc các bạn ôn thi tốt và thi đậu!  🎓🍀
 
 Cảm ơn đã ghé qua! 💛
 
