@@ -69,9 +69,9 @@ Nếu cần B2 trở lên, nên thi ở các trường **không quá nổi tiế
 
 ## ⚠️ Lưu ý quan trọng
 
-- Tất cả tài liệu trong repo là do mình và bạn bè sưu tầm, mua, tổng hợp – chỉ dùng cho mục đích học tập cá nhân, không vì mục đích khác.  
+- Tất cả tài liệu trong repo là do mình và bạn bè sưu tầm, mua, tổng hợp – **chỉ dùng cho mục đích học tập cá nhân, không vì mục đích khác**.  
 - Không khuyến khích gian lận trong thi cử. Hãy dùng "bùa" chỉ như công cụ hỗ trợ ôn tập, không nên mang vào phòng thi nếu không muốn rủi ro bị hủy kết quả.  
-- Chứng chỉ VSTEP có giá trị theo quy định của từng trường/cơ quan (thường 2 năm hoặc vĩnh viễn tùy nơi).
+- Chứng chỉ VSTEP có giá trị theo quy định của từng trường/cơ quan.
 
 Hy vọng repo này sẽ giúp các bạn tiết kiệm công sức và sớm đạt được **VSTEP Bậc 4 (B2)** như mình (hoặc cao hơn nữa)!  
 
