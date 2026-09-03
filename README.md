@@ -60,7 +60,7 @@ Nếu cần B2 trở lên, nên thi ở các trường **không quá nổi tiế
 ## ♻️ Mẹo & tips từ trải nghiệm + thầy cô dạy
 
 - Nghe–Đọc cần thời gian ôn luyện rất nhiều. Điều quan trọng là phải ôn lại sau mỗi lần làm.
-- Mình luyện nghe-đọc: tại website **luyenthivstep.vn** → Mình mua gói đề 1 tháng, mỗi ngày quyết tâm giải 1 đề, mình thấy có tiến bộ rõ rệt vì lời giải của web chi tiết dễ học.
+- Mình luyện nghe-đọc tại website **luyenthivstep.vn** → Mua gói đề 1 tháng, mỗi ngày quyết tâm giải 1 đề, mình thấy có tiến bộ rõ rệt vì lời giải của web chi tiết dễ học.
 - Nói–Viết có thể lên điểm nhanh trong thời gian ngắn nếu có sự đầu tư, vì đa phần đã có sẵn để học thuộc.
 - Nhét từ vựng trình độ cao (dù hơi "lạc đề") vào bài Nói–Viết để ghi điểm từ vựng & thể hiện sự cố gắng.  
 - Luyện viết câu ghép dài, đơn giản theo topic phổ biến → càng luyện nhiều càng quen tay, thi tự nhiên sẽ "nảy" ý.  
